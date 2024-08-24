@@ -76,5 +76,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check out 
 - Special thanks to the open-source community for their invaluable resources and tools.
 
 ---
-
-Feel free to modify and customize this README file according to your preferences and project specifics!
